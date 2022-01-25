@@ -1,7 +1,7 @@
 ---
 title: "How Not to Be a Leader"
 date: 2022-01-25T14:25:54+01:00
-draft: true
+draft: false
 ---
 
 In this blog post we'll explore some of the practices you should NOT follow if you pretend to improve your leadership
