@@ -1,0 +1,4 @@
+baseURL = 'https://AlbertoSH.github.io/'
+languageCode = 'en-us'
+title = 'Just a random mandatory blog'
+theme = "papermod"
